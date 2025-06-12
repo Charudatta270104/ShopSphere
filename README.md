@@ -62,10 +62,10 @@ ShopSpher/
 3. **Start the development server:**
    - npm start
 
-### Screenshot
+## Screenshot
 
 ![Shopspher](./src/img/image1.png)
 
 ![Shopspher](./src/img/image.png)
 
-#### [🚀 View Live Demo](https://shopsphere-4de2b.web.app/)
+## [🚀 View Live Demo](https://shopsphere-4de2b.web.app/)
