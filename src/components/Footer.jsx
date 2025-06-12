@@ -17,7 +17,7 @@ const Footer = () => {
                         <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">Contact</h4>
                         <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Kotharud, Pune, Maharastra</p>
                         <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91 12345 67890</p>
-                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>demo@gmail.com</p>
+                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>abc@gmail.com</p>
                         <div class="d-flex pt-2">
                             <a class="btn btn-outline-light btn-social" href="https://twitter.com/i/flow/login"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social" href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
